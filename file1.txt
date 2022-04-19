@@ -1,2 +1,3 @@
 line1
 line1 in master branch
+line1 b1 branch new line .
